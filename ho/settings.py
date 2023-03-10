@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-pue%&*nu6n1=vqgs__7y*w_i9!vx-ce!rlhu02t3vn0)vs99ca
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://flame-x11.onrender.com"]
+ALLOWED_HOSTS = ["flame-x11.onrender.com"]
 
 
 # Application definition
